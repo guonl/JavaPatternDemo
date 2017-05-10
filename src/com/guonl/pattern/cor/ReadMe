@@ -1,0 +1,4 @@
+Chain Of Responsibility	责任链模式
+
+包含的包文件：com.guonl.pattern.cor
+			com.guonl.pattern.cor.handler
